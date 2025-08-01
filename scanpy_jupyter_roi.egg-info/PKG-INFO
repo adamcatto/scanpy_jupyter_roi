@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: scanpy_jupyter_roi
-Version: 0.1.1
+Version: 0.1.2
 Summary: An interactive tool for drawing and filtering regions of interest on AnnData/ScanPy spatial data.
 Home-page: https://github.com/adamcatto/scanpy_jupyter_roi
 Author: Adam Catto
