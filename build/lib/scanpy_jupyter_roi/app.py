@@ -13,7 +13,7 @@ import scanpy as sc
 import ipywidgets as widgets
 import numpy as np
 
-class ScanpyInteractivePolygonApp3D:
+class ScanpyInteractivePolygonApp:
     def __init__(
         self,
         adata,

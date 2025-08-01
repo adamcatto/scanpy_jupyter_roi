@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="scanpy_jupyter_roi",
-    version="0.1.1",
+    version="0.1.2",
     description="An interactive tool for drawing and filtering regions of interest on AnnData/ScanPy spatial data.",
     author="Adam Catto",
     author_email="agocatto@gmail.com",
